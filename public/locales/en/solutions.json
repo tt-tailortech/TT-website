@@ -1,0 +1,51 @@
+{
+  "page_title": "Our Solutions",
+  "page_description": "Discover how our tailored technologies solve complex challenges",
+  "view_all": "View All Solutions",
+  "learn_more": "Learn More",
+  "categories": {
+    "security": "Security Solutions",
+    "environmental": "Environmental Solutions",
+    "data": "Data Solutions",
+    "agricultural": "Agricultural Solutions" 
+  },
+  "community-security": {
+    "title": "Community Security Solutions",
+    "description": "Advanced security systems designed to protect communities and enhance safety"
+  },
+  "environmental-monitoring": {
+    "title": "Environmental Monitoring",
+    "description": "Smart systems for monitoring and protecting environmental resources"
+  },
+  "smart-data": {
+    "title": "Smart Data Systems",
+    "description": "Intelligent data processing and analytics solutions for informed decision making"
+  },
+  "configurator": {
+    "title": "Solution Configurator",
+    "subtitle": "Identify your challenges and discover the perfect solution",
+    "step1": "Select Challenge Category",
+    "step2": "Specify Challenges",
+    "step3": "View Recommended Solutions",
+    "next": "Next Step",
+    "previous": "Previous",
+    "start_over": "Start Over"
+  },
+  "solution_detail": {
+    "back_to_all": "Back to All Solutions",
+    "the_challenge": "The Challenge",
+    "our_solution": "Our Solution",
+    "key_features": "Key Features",
+    "benefits": "Benefits",
+    "applications": "Applications",
+    "technical_specs": "Technical Specifications",
+    "case_study": "Case Study",
+    "case_study_implementation": "Implementation",
+    "read_full_case_study": "Read the full case study",
+    "interested_in_solution": "Interested in our {{solution}} Solution?",
+    "contact_subtitle": "Contact our team to discuss how we can implement this solution for your specific needs.",
+    "discuss_implementation": "Discuss Implementation",
+    "challenge_description": "In today's complex environment, organizations face significant challenges related to {{solution}}. Traditional approaches often fall short, leading to inefficiencies, security vulnerabilities, and missed opportunities.",
+    "case_study_description": "See how our {{solution}} solution was implemented to solve real-world challenges for our client."
+  }
+}

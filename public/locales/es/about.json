@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "title": "Sobre Nosotros | Soluciones Tecnológicas a Medida",
+    "description": "Conozca al equipo de Tailored Tech, nuestra historia, valores y la experiencia que aportamos al desarrollo de soluciones tecnológicas personalizadas."
+  },
+  "hero": {
+    "title": "Sobre Nosotros",
+    "subtitle": "Conozca al equipo detrás de las soluciones innovadoras de Tailored Tech"
+  },
+  "story": {
+    "title": "Nuestra Historia",
+    "paragraph1": "Tailored Tech fue fundada en 2024 por Benja y Waldo, un pequeño equipo de ingenieros con formación en ingeniería informática y civil, uno con un título de maestría y el otro con un doctorado. Nuestro equipo fundador reconoció el potencial de aprovechar las tecnologías modernas de IA para revolucionar cómo las organizaciones abordan sus desafíos técnicos.",
+    "paragraph2": "En lugar de enfocarnos únicamente en casos de negocio, nuestro objetivo es mejorar y automatizar procesos. El rápido avance en las tecnologías de IA, combinado con nuestra experiencia y tiempo en la industria, nos permite aprovechar estas nuevas capacidades para crear soluciones más rápidas, más eficientes y verdaderamente personalizadas.",
+    "paragraph3": "Esta visión nos llevó a establecer Tailored Tech con una misión clara: crear soluciones tecnológicas verdaderamente personalizadas que aborden los desafíos únicos que enfrentan nuestros clientes. Hoy, continuamos cumpliendo esa misión a través de sistemas innovadores y cuidadosamente elaborados que marcan una diferencia significativa para las organizaciones a las que servimos.",
+    "missionTitle": "Nuestra Misión",
+    "missionText": "Potenciar a personas, comunidades e industrias de todos los niveles mediante la IA y nuestro conocimiento especializado, ofreciendo soluciones accesibles que generen un impacto real en su día a día y futuro."
+  },
+  "values": {
+    "title": "Nuestros Valores Fundamentales",
+    "items": [
+      {
+        "title": "Innovación",
+        "description": "Exploramos continuamente nuevas tecnologías y enfoques para resolver problemas desafiantes de manera creativa."
+      },
+      {
+        "title": "Precisión",
+        "description": "Creemos en la atención meticulosa a los detalles, asegurando que nuestras soluciones funcionen exactamente como se pretende."
+      },
+      {
+        "title": "Adaptabilidad",
+        "description": "Aceptamos el cambio y diseñamos soluciones flexibles que pueden evolucionar con las necesidades de nuestros clientes."
+      },
+      {
+        "title": "Integridad",
+        "description": "Mantenemos una comunicación transparente y relaciones honestas con nuestros clientes y socios."
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Quieres Unirte a Nuestro Equipo?",
+    "subtitle": "Siempre estamos buscando personas talentosas que compartan nuestra pasión por resolver desafíos complejos con tecnología.",
+    "buttonText": "Ver Vacantes"
+  }
+}

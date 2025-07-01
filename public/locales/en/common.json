@@ -1,0 +1,83 @@
+{
+  "navigation": {
+    "home": "Home",
+    "solutions": "Solutions",
+    "approach": "Our Approach",
+    "about": "About Us",
+    "resources": "Resources",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "title": "Tailored Technological Solutions for Your Unique Challenges",
+    "subtitle": "Custom-built digital systems that solve real-world problems"
+  },
+  "site": {
+    "name": "Tailored Tech Solutions",
+    "description": "Custom technological solutions for real-world challenges",
+    "expertise": "We combine technical expertise with deep domain knowledge to create truly tailored solutions"
+  },
+  "solutions": {
+    "title": "Our Solutions",
+    "subtitle": "Customized technological systems designed to address your specific challenges",
+    "community_security": "Community Security",
+    "environmental_monitoring": "Environmental Monitoring",
+    "smart_data_systems": "Smart Data Systems",
+    "agricultural_solutions": "Agricultural Solutions",
+    "configurator": "Solution Configurator"
+  },
+  "cta": {
+    "learn_more": "Learn More",
+    "contact_us": "Contact Us",
+    "explore_solutions": "Explore Our Solutions",
+    "view_details": "View Details",
+    "get_started": "Get Started",
+    "title": "Ready to Start Your Project?",
+    "subtitle": "Contact us today to schedule a consultation and discuss your specific needs.",
+    "buttonText": "Contact Us"
+  },
+  "process": {
+    "consultation": {
+      "title": "Consultation & Discovery",
+      "description": "We begin by thoroughly understanding your challenge, goals, and context. This foundational step ensures we're solving the right problem in the right way."
+    },
+    "solutionDesign": {
+      "title": "Solution Design",
+      "description": "Our team develops a comprehensive solution design that addresses your specific needs while considering scalability, user experience, and technical constraints."
+    },
+    "development": {
+      "title": "Development & Implementation",
+      "description": "We build your solution using agile methodologies, ensuring quality and adaptability throughout the development process."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Reach out to discuss how we can create a tailored solution for your needs",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "company": "Company",
+      "inquiry_type": "Inquiry Type",
+      "message": "Message",
+      "send": "Send Message",
+      "general": "General Inquiry",
+      "solution": "Solution Information",
+      "consultation": "Request Consultation",
+      "support": "Technical Support",
+      "partnership": "Partnership Opportunity"
+    },
+    "success": "Thank you! Your message has been received. We'll be in touch soon.",
+    "error": "An error occurred. Please try again."
+  },
+  "footer": {
+    "quick_links": "Quick Links",
+    "resources": "Resources",
+    "contact_info": "Contact",
+    "copyright": "© 2025 Tailored Tech Solutions. All rights reserved.",
+    "privacy_policy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "language": {
+    "en": "English",
+    "es": "Español"
+  }
+}

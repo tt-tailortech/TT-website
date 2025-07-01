@@ -1,0 +1,152 @@
+{
+  "page_title": "Nuestro Enfoque",
+  "page_description": "Conozca nuestra metodología para desarrollar soluciones tecnológicas personalizadas que abordan sus desafíos únicos.",
+  "hero": {
+    "title": "Nuestro Enfoque",
+    "subtitle": "Cómo transformamos desafíos complejos en soluciones tecnológicas efectivas"
+  },
+  "intro": {
+    "section_title": "Una Metodología Personalizada",
+    "p1": "En Tailored Tech, creemos que las soluciones efectivas comienzan con una comprensión profunda del problema. Nuestro enfoque combina experiencia técnica con conocimiento del dominio para crear soluciones que se adaptan perfectamente a sus necesidades.",
+    "p2": "A diferencia de los proveedores de tecnología de talla única, adaptamos nuestro proceso para satisfacer su contexto, limitaciones y objetivos específicos. El resultado es una solución verdaderamente personalizada que resuelve sus desafíos únicos."
+  },
+  "principles": {
+    "section_title": "Nuestros Principios Rectores",
+    "client_collaboration": "Colaboración con el Cliente: Trabajando estrechamente con usted durante todo el proceso",
+    "deep_understanding": "Comprensión Profunda: Tomando el tiempo para entender completamente sus necesidades y objetivos",
+    "customization": "Personalización: Adaptando nuestro proceso y soluciones a sus requerimientos únicos",
+    "transparency": "Transparencia: Comunicación abierta y expectativas claras en cada etapa",
+    "quality": "Calidad: Entregando soluciones robustas, escalables y mantenibles"
+  },
+  "process": {
+    "section_title": "Nuestro Proceso",
+    "steps_intro": "Nuestro proceso de desarrollo está diseñado para garantizar claridad, colaboración y resultados en cada paso."
+  },
+  "timeline": {
+    "title": "Nuestro Proceso de Desarrollo",
+    "subtitle": "Cómo transformamos sus desafíos en soluciones personalizadas",
+    "steps": [
+      {
+        "title": "Consultoría y Descubrimiento",
+        "description": "Comenzamos comprendiendo a fondo su desafío, objetivos y contexto. Este paso fundamental garantiza que resolvamos el problema correcto de la manera correcta.",
+        "bullets": [
+          "Entrevistas en profundidad con las partes interesadas",
+          "Recopilación y análisis de requisitos",
+          "Evaluación de viabilidad",
+          "Discusiones iniciales de concepto"
+        ]
+      },
+      {
+        "title": "Diseño de la Solución",
+        "description": "Nuestro equipo desarrolla un diseño de solución integral que aborda sus necesidades específicas considerando escalabilidad, experiencia de usuario y restricciones técnicas.",
+        "bullets": [
+          "Planificación de arquitectura del sistema",
+          "Wireframing de UI/UX",
+          "Modelado de flujo de datos",
+          "Selección de stack tecnológico"
+        ]
+      },
+      {
+        "title": "Desarrollo e Implementación",
+        "description": "Construimos su solución utilizando metodologías ágiles, asegurando calidad y adaptabilidad durante todo el proceso de desarrollo.",
+        "bullets": [
+          "Sprints de desarrollo iterativos",
+          "Actualizaciones regulares de progreso",
+          "Pruebas continuas y aseguramiento de calidad",
+          "Sesiones de revisión con partes interesadas"
+        ]
+      },
+      {
+        "title": "Despliegue e Integración",
+        "description": "Desplegamos cuidadosamente la solución en su entorno, asegurando integración fluida con sistemas existentes y transferencia de conocimiento.",
+        "bullets": [
+          "Estrategia de despliegue controlado",
+          "Integración de sistemas",
+          "Migración de datos (si es necesario)",
+          "Capacitación de usuarios y documentación"
+        ]
+      },
+      {
+        "title": "Soporte Continuo y Evolución",
+        "description": "Nuestra relación continúa después del despliegue con soporte, mantenimiento y mejora continua de su solución.",
+        "bullets": [
+          "Soporte técnico y resolución de problemas",
+          "Monitoreo de rendimiento",
+          "Actualizaciones y mejoras regulares",
+          "Adaptación a necesidades cambiantes"
+        ]
+      }
+    ]
+  },
+  "client_collaboration": {
+    "section_title": "Colaboración con el Cliente",
+    "description": "Creemos que las soluciones exitosas se construyen sobre asociaciones sólidas. A lo largo del proceso de desarrollo, mantenemos una comunicación clara y constante a través de:",
+    "features": [
+      {
+        "title": "Actualizaciones Regulares",
+        "description": "Reuniones y demostraciones programadas de progreso para mantenerlo informado e involucrado en cada etapa."
+      },
+      {
+        "title": "Herramientas Colaborativas",
+        "description": "Plataformas compartidas de gestión de proyectos que brindan transparencia y actualizaciones en tiempo real."
+      },
+      {
+        "title": "Integración de Retroalimentación",
+        "description": "Procesos estructurados para recopilar e implementar sus comentarios durante todo el desarrollo."
+      },
+      {
+        "title": "Transferencia de Conocimiento",
+        "description": "Capacitación y documentación integral para que su equipo pueda utilizar la solución con confianza."
+      }
+    ]
+  },
+  "pricing_structure": {
+    "consultation": "Cada proyecto comienza con una consulta exhaustiva para determinar la estructura de precios más adecuada para sus necesidades específicas.",
+    "section_title": "Estructura de Precios",
+    "fixed_price": {
+      "title": "Proyectos de Precio Fijo",
+      "description": "Para proyectos con requisitos y alcance bien definidos, ofrecemos contratos de precio fijo que brindan certeza presupuestaria.",
+      "bullets": [
+        "Costos predecibles",
+        "Plan de proyecto detallado",
+        "Entregables definidos"
+      ],
+      "best_for": "Ideal para: Proyectos con especificaciones claras y cambios mínimos esperados."
+    },
+    "time_materials": {
+      "title": "Tiempo y Materiales",
+      "description": "Para proyectos que requieren mayor flexibilidad o donde los requisitos pueden evolucionar, nuestro enfoque de tiempo y materiales ofrece adaptabilidad.",
+      "bullets": [
+        "Máxima flexibilidad",
+        "Pague solo por el trabajo completado",
+        "Fácil adaptación a cambios"
+      ],
+      "best_for": "Ideal para: Proyectos con requisitos cambiantes o alcance incierto."
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "questions": [
+      {
+        "question": "¿Cuánto tiempo toma un proyecto típico?",
+        "answer": "Los tiempos de proyecto varían significativamente según la complejidad, el alcance y los requisitos específicos. Las soluciones simples pueden implementarse en 4-8 semanas, mientras que los sistemas más complejos pueden llevar de 3-6 meses. Durante la consulta inicial, proporcionaremos una estimación detallada del cronograma específica para su proyecto."
+      },
+      {
+        "question": "¿Qué nivel de participación requiero en el proceso?",
+        "answer": "Valoramos la colaboración del cliente y creemos que conduce a mejores resultados. Su participación es particularmente importante durante la consulta inicial, los puntos de decisión clave y las fases de revisión. Trabajaremos con usted para establecer un plan de comunicación que respete sus restricciones de tiempo mientras aseguramos que permanezca informado e involucrado durante todo el proyecto."
+      },
+      {
+        "question": "¿Qué sucede después de que se implementa la solución?",
+        "answer": "Nuestra relación continúa después de la implementación con opciones de soporte y mantenimiento completas. Proporcionamos documentación y capacitación exhaustivas para asegurar que su equipo pueda usar la solución de manera efectiva. También ofrecemos paquetes de soporte continuo para asistencia técnica, actualizaciones regulares y mejoras futuras a medida que sus necesidades evolucionan."
+      },
+      {
+        "question": "¿Pueden trabajar con nuestros sistemas existentes?",
+        "answer": "Sí, nos especializamos en crear soluciones que se integren con la infraestructura existente. Durante la fase de consulta, evaluaremos sus sistemas actuales y desarrollaremos una estrategia de integración que maximice sus inversiones existentes mientras implementamos nuevas capacidades. Nuestras soluciones están diseñadas para complementar y mejorar su ecosistema tecnológico, no para reemplazarlo."
+      }
+    ]
+  },
+  "contact_cta": {
+    "title": "¿Listo para comenzar?",
+    "subtitle": "Contáctenos hoy para discutir su proyecto o solicitar una consulta."
+  }
+}

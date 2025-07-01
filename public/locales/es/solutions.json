@@ -1,0 +1,51 @@
+{
+  "page_title": "Nuestras Soluciones",
+  "page_description": "Descubra cómo nuestras tecnologías personalizadas resuelven desafíos complejos",
+  "view_all": "Ver Todas las Soluciones",
+  "learn_more": "Más Información",
+  "categories": {
+    "security": "Soluciones de Seguridad",
+    "environmental": "Soluciones Ambientales",
+    "data": "Soluciones de Datos",
+    "agricultural": "Soluciones Agrícolas" 
+  },
+  "community-security": {
+    "title": "Soluciones de Seguridad Comunitaria",
+    "description": "Sistemas de seguridad avanzados diseñados para proteger comunidades y mejorar la seguridad"
+  },
+  "environmental-monitoring": {
+    "title": "Monitoreo Ambiental",
+    "description": "Sistemas inteligentes para monitorear y proteger recursos ambientales"
+  },
+  "smart-data": {
+    "title": "Sistemas de Datos Inteligentes",
+    "description": "Soluciones inteligentes de procesamiento y análisis de datos para una toma de decisiones informada"
+  },
+  "configurator": {
+    "title": "Configurador de Soluciones",
+    "subtitle": "Identifique sus desafíos y descubra la solución perfecta",
+    "step1": "Seleccionar Categoría de Desafío",
+    "step2": "Especificar Desafíos",
+    "step3": "Ver Soluciones Recomendadas",
+    "next": "Siguiente Paso",
+    "previous": "Anterior",
+    "start_over": "Comenzar de Nuevo"
+  },
+  "solution_detail": {
+    "back_to_all": "Volver a Todas las Soluciones",
+    "the_challenge": "El Desafío",
+    "our_solution": "Nuestra Solución",
+    "key_features": "Características Principales",
+    "benefits": "Beneficios",
+    "applications": "Aplicaciones",
+    "technical_specs": "Especificaciones Técnicas",
+    "case_study": "Caso de Estudio",
+    "case_study_implementation": "Implementación",
+    "read_full_case_study": "Leer el caso de estudio completo",
+    "interested_in_solution": "¿Interesado en nuestra Solución de {{solution}}?",
+    "contact_subtitle": "Contacte a nuestro equipo para hablar sobre cómo podemos implementar esta solución para sus necesidades específicas.",
+    "discuss_implementation": "Hablar sobre Implementación",
+    "challenge_description": "En el entorno complejo actual, las organizaciones enfrentan desafíos significativos relacionados con {{solution}}. Los enfoques tradicionales a menudo son insuficientes, lo que lleva a ineficiencias, vulnerabilidades de seguridad y oportunidades perdidas.",
+    "case_study_description": "Vea cómo nuestra solución de {{solution}} se implementó para resolver desafíos del mundo real para nuestro cliente."
+  }
+}

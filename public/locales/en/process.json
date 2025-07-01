@@ -1,0 +1,14 @@
+{
+  "consultation": {
+    "title": "Consultation & Discovery",
+    "description": "We begin by thoroughly understanding your challenge, goals, and context. This foundational step ensures we're solving the right problem in the right way."
+  },
+  "solutionDesign": {
+    "title": "Solution Design",
+    "description": "Our team develops a comprehensive solution design that addresses your specific needs while considering scalability, user experience, and technical constraints."
+  },
+  "development": {
+    "title": "Development & Implementation",
+    "description": "We build your solution using agile methodologies, ensuring quality and adaptability throughout the development process."
+  }
+}

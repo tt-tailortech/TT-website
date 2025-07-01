@@ -1,0 +1,83 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "solutions": "Soluciones",
+    "approach": "Nuestro Enfoque",
+    "about": "Sobre Nosotros",
+    "resources": "Recursos",
+    "contact": "Contáctenos"
+  },
+  "hero": {
+    "title": "Soluciones Tecnológicas Personalizadas para sus Desafíos Únicos",
+    "subtitle": "Sistemas digitales personalizados que resuelven problemas del mundo real"
+  },
+  "site": {
+    "name": "Soluciones Tecnológicas Personalizadas",
+    "description": "Soluciones tecnológicas personalizadas para desafíos del mundo real",
+    "expertise": "Combinamos experiencia técnica con profundo conocimiento del dominio para crear soluciones verdaderamente personalizadas"
+  },
+  "solutions": {
+    "title": "Nuestras Soluciones",
+    "subtitle": "Sistemas tecnológicos personalizados diseñados para abordar sus desafíos específicos",
+    "community_security": "Seguridad Comunitaria",
+    "environmental_monitoring": "Monitoreo Ambiental",
+    "smart_data_systems": "Sistemas Inteligentes de Datos",
+    "agricultural_solutions": "Soluciones Agrícolas",
+    "configurator": "Configurador de Soluciones"
+  },
+  "cta": {
+    "learn_more": "Más Información",
+    "contact_us": "Contáctenos",
+    "explore_solutions": "Explorar Nuestras Soluciones",
+    "view_details": "Ver Detalles",
+    "get_started": "Comenzar",
+    "title": "¿Listo para Comenzar tu Proyecto?",
+    "subtitle": "Contáctanos hoy para programar una consulta y discutir tus necesidades específicas.",
+    "buttonText": "Contáctenos"
+  },
+  "process": {
+    "consultation": {
+      "title": "Consulta y Descubrimiento",
+      "description": "Comenzamos comprendiendo a fondo su desafío, objetivos y contexto. Este paso fundamental garantiza que estemos resolviendo el problema correcto de la manera correcta."
+    },
+    "solutionDesign": {
+      "title": "Diseño de la Solución",
+      "description": "Nuestro equipo desarrolla un diseño de solución integral que aborda sus necesidades específicas, considerando la escalabilidad, la experiencia del usuario y las limitaciones técnicas."
+    },
+    "development": {
+      "title": "Desarrollo e Implementación",
+      "description": "Construimos su solución utilizando metodologías ágiles, asegurando calidad y adaptabilidad durante todo el proceso de desarrollo."
+    }
+  },
+  "contact": {
+    "title": "Contáctenos",
+    "subtitle": "Comuníquese con nosotros para discutir cómo podemos crear una solución personalizada para sus necesidades",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "company": "Empresa",
+      "inquiry_type": "Tipo de Consulta",
+      "message": "Mensaje",
+      "send": "Enviar Mensaje",
+      "general": "Consulta General",
+      "solution": "Información de Solución",
+      "consultation": "Solicitar Consulta",
+      "support": "Soporte Técnico",
+      "partnership": "Oportunidad de Colaboración"
+    },
+    "success": "¡Gracias! Hemos recibido su mensaje. Nos pondremos en contacto pronto.",
+    "error": "Ocurrió un error. Por favor intente nuevamente."
+  },
+  "footer": {
+    "quick_links": "Enlaces Rápidos",
+    "resources": "Recursos",
+    "contact_info": "Contacto",
+    "copyright": "© 2025 Tailored Tech Solutions. Todos los derechos reservados.",
+    "privacy_policy": "Política de Privacidad",
+    "terms": "Términos de Servicio"
+  },
+  "language": {
+    "en": "English",
+    "es": "Español"
+  }
+}

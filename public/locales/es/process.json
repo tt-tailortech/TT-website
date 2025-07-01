@@ -1,0 +1,14 @@
+{
+  "consultation": {
+    "title": "Consulta y Descubrimiento",
+    "description": "Comenzamos comprendiendo a fondo su desafío, objetivos y contexto. Este paso fundamental garantiza que estemos resolviendo el problema correcto de la manera correcta."
+  },
+  "solutionDesign": {
+    "title": "Diseño de la Solución",
+    "description": "Nuestro equipo desarrolla un diseño de solución integral que aborda sus necesidades específicas, considerando la escalabilidad, la experiencia del usuario y las limitaciones técnicas."
+  },
+  "development": {
+    "title": "Desarrollo e Implementación",
+    "description": "Construimos su solución utilizando metodologías ágiles, asegurando calidad y adaptabilidad durante todo el proceso de desarrollo."
+  }
+}

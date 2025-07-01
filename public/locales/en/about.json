@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "title": "About Us | Tailored Tech Solutions",
+    "description": "Learn about the Tailored Tech team, our story, values, and the expertise we bring to developing custom technology solutions."
+  },
+  "hero": {
+    "title": "About Us",
+    "subtitle": "Meet the team behind Tailored Tech's innovative solutions"
+  },
+  "story": {
+    "title": "Our Story",
+    "paragraph1": "Tailored Tech was founded in 2024 by Benja and Waldo, a small team of engineers from computer and civil engineering backgrounds, with one holding a master's degree and the other a PhD. Our founding team recognized the potential to leverage modern AI technologies to revolutionize how organizations approach their technical challenges.",
+    "paragraph2": "Rather than focusing solely on business cases, we aim to improve and automate processes. The rapid advancement in AI technologies, combined with our expertise and industry experience, allows us to harness these new capabilities to create faster, more efficient, and truly tailored solutions.",
+    "paragraph3": "This insight led us to establish Tailored Tech with a clear mission: to create truly customized technological solutions that address the unique challenges faced by our clients. Today, we continue to fulfill that mission through innovative, precisely crafted systems that make a meaningful difference for the organizations we serve.",
+    "missionTitle": "Our Mission",
+    "missionText": "To help people, communities, and industries of all levels by combining advanced AI technologies with our specialized knowledge to deliver real, accessible solutions that make a meaningful difference in their daily operations and long-term success."
+  },
+  "values": {
+    "title": "Our Core Values",
+    "items": [
+      {
+        "title": "Innovation",
+        "description": "We continuously explore new technologies and approaches to solve challenging problems in creative ways."
+      },
+      {
+        "title": "Precision",
+        "description": "We believe in meticulous attention to detail, ensuring our solutions perform exactly as intended."
+      },
+      {
+        "title": "Adaptability",
+        "description": "We embrace change and design flexible solutions that can evolve with our clients' needs."
+      },
+      {
+        "title": "Integrity",
+        "description": "We maintain transparent communication and honest relationships with our clients and partners."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Want to Join Our Team?",
+    "subtitle": "We're always looking for talented individuals who share our passion for solving complex challenges with technology.",
+    "buttonText": "See Open Positions"
+  }
+}
