@@ -1,6 +1,12 @@
-# Tailored Tech Solutions Website
+# 🏢 Tailored Tech Corporate Website
 
-A modern, responsive website for Tailored Tech Solutions, showcasing their custom technological solutions for real-world challenges.
+![Tailored Tech Logo](./public/images/TT-logo.jpeg)
+
+Professional corporate website for Tailored Tech Solutions, showcasing our technology expertise and custom solutions.
+
+## 🚀 **Live Site**
+- **Production**: https://tailortech-website.netlify.app
+- **GitHub**: https://github.com/tt-tailortech/TT-website
 
 ## Project Structure
 
@@ -24,14 +30,37 @@ tailoredtech/
 │   └── data/             # JSON data files for content
 ```
 
-## Technology Stack
+## 🛠️ **Technology Stack**
 
-- **Framework**: Next.js - React framework with server-side rendering
-- **Styling**: TailwindCSS - Utility-first CSS framework
-- **Deployment**: Vercel/Netlify (recommended)
-- **Additional Libraries**:
-  - Styled Components - For component-based styling
-  - React Icons - For icon components
+- **Framework**: Next.js 13+ with React 18
+- **Styling**: Tailwind CSS
+- **Internationalization**: next-i18next (English/Spanish)
+- **Deployment**: Netlify with auto-deployment
+- **AI Development**: Claude Code GitHub integration
+
+## 🎯 **Key Features**
+
+- ✅ Responsive design optimized for all devices
+- ✅ Multi-language support (English/Spanish)
+- ✅ Interactive solution configurator
+- ✅ Professional company showcase
+- ✅ Contact forms with validation
+- ✅ SEO optimized
+- ✅ Fast loading with Next.js optimization
+
+## 🤖 **Claude Code Integration**
+
+This repository is integrated with Claude Code for AI-powered development assistance.
+
+### **Available Commands:**
+- Mention `@claude` in issues or pull requests for AI assistance
+- Auto-deployment triggers on main branch pushes
+- Automated code reviews and suggestions
+
+### **Setup Instructions:**
+1. Install GitHub app: https://github.com/apps/claude
+2. Add `ANTHROPIC_API_KEY` to repository secrets
+3. Use `@claude` mentions for AI assistance
 
 ## Getting Started
 
